@@ -44,8 +44,6 @@ body {
     align-items: center;
     padding-left: 50px;
     margin-right: none;
-
-    
 }
 #navigation a {
     color: #f2f2f2;
@@ -56,9 +54,7 @@ body {
     align-items: center;
     padding-left: 50px;
     margin-right: none;
-    text-decoration-line: none;
-
-    
+    text-decoration-line: none;   
 }
 #about {
     display: flex;
